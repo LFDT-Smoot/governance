@@ -16,3 +16,8 @@ repositories:
     teams:
       lf-staff: maintain
     visibility: public
+
+  - name: bridge
+    teams:
+      smoot-maintainers: write
+    visibility: public
