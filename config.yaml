@@ -7,8 +7,6 @@ teams:
       - thelinuxfoundation
   - name: smoot-maintainers
     maintainers:
-      - ryjones
-    members:
       - weijia31415
 
 repositories:
