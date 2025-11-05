@@ -10,6 +10,12 @@ teams:
       - weijia31415
 
 repositories:
+  - name: .github
+    teams:
+      lf-staff: maintain
+      smoot-maintainers: maintain
+    visibility: public
+
   - name: governance
     teams:
       lf-staff: maintain
