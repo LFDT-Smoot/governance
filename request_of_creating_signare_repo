@@ -1,0 +1,7 @@
+Smoot maintainers have discussed merging Signare library to Smoot project. This signing service could be very useful for multisign signing using HSM.  The package needs bug issues and capability expensions.
+
+Signare, a Hyperledger Lab, is an enterprise grade digital signing solution for DLT related applications and Ethereum clients. The application provides a REST API server to manage resource configuration and an ETH-JSON-RPC 2.0 server that provides functionality for generating, removing, listing and signing Ethereum transactions.
+
+There are two ways for governance to port the Signare repo:
+  Option 1: Simply create an empty signare repo under LFDT-Smoot.  The maintainers will do the rest.
+  Option 2: Fork only the main branch of https://github.com/hyperledger-labs/signare.
