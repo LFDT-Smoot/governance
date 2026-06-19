@@ -16,12 +16,17 @@ repositories:
       smoot-maintainers: maintain
     visibility: public
 
+  - name: bridge
+    teams:
+      smoot-maintainers: write
+    visibility: public
+
   - name: governance
     teams:
       lf-staff: maintain
     visibility: public
 
-  - name: bridge
+  - name: signare
     teams:
       smoot-maintainers: write
     visibility: public
