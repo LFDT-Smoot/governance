@@ -8,6 +8,9 @@ teams:
   - name: smoot-maintainers
     maintainers:
       - weijia31415
+    members:
+      - mkrielza
+      - Apartment6
 
 repositories:
   - name: .github
